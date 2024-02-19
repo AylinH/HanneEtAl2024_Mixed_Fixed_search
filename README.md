@@ -1,3 +1,3 @@
-# Datasets from  "xxx"
+# Datasets from  "Handling distractor interference in mixed and fixed search"
 
-Datasets used in "xxx" (Hanne et al., 2023). The datasets are provided in .csv format and JASP outputs are provided in .pdf format. This GitHub repository is connected to our OSF repository (LINK).
+Datasets and Bayesian Models used in "Handling distractor interference in mixed and fixed search" (Hanne et al., under rev.). The datasets are provided in .csv format and the Bayesian Models are provided as Jupyter Notebooks. This GitHub repository is connected to our OSF repository (LINK), where also the sampled traces can be found.
